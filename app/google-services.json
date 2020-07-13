@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "877041948481",
+    "firebase_url": "https://ludo-cc94c.firebaseio.com",
+    "project_id": "ludo-cc94c",
+    "storage_bucket": "ludo-cc94c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877041948481:android:df4ae13d9e07afeb8f33c0",
+        "android_client_info": {
+          "package_name": "com.pappu.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877041948481-ej96caa7m238k7jnp5k83tog2vbfit0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQquDaKzyDEFjKvVJmEAM6la1D_yTizh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877041948481-ej96caa7m238k7jnp5k83tog2vbfit0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877041948481:android:97f852e287ad20138f33c0",
+        "android_client_info": {
+          "package_name": "com.pappu.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877041948481-ej96caa7m238k7jnp5k83tog2vbfit0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQquDaKzyDEFjKvVJmEAM6la1D_yTizh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877041948481-ej96caa7m238k7jnp5k83tog2vbfit0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877041948481:android:745cdb7b8dedad9a8f33c0",
+        "android_client_info": {
+          "package_name": "com.pappu1.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877041948481-ej96caa7m238k7jnp5k83tog2vbfit0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQquDaKzyDEFjKvVJmEAM6la1D_yTizh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877041948481-ej96caa7m238k7jnp5k83tog2vbfit0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
